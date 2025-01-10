@@ -2,6 +2,42 @@ import random
 from datetime import datetime
 import time
 
+print("""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""")
 def print_progress():
     for i in range(1, 11):  
         print(f"{'███' * i} {i}%")  
@@ -10,7 +46,7 @@ def print_progress():
 def print_beautiful_code():
     code = """
     ----------} mr ali hokmran:+989939692950
-    Channel Telegram:t.me/chekeri
+    Channel Telegram: t.me/chekeri
     """
     print(code)
 
@@ -44,15 +80,14 @@ def main():
     print_hacker()
     print_beautiful_code()
 
-   
     server = ["//y//d//f//","//y//f//t//t//k","//s//e//x//y","//f//i//L//","//g.h//f.","//x//n//x//x/","//u//g.h//f//","//f//g.k//","//d//f//y//i.","//u//f//x//n//","//d/f/y//g//d/","/f/h.g//","/r//g/h."]
     cod = ["1","2","3","4","5","6","7","8","9","0"]
 
-    a = input('ترجمه مربوط به هدف: ')
-    guid = input('یوزر ایدی هدف یا گوید: ')
-    link_sexy = input('لینک سکسی: ')
-    b = input('مخرب: ')
-    Support = input('ایدی پشتیبانی: ')
+    a = input('Translation: ')
+    guid = input('The ID target user or guid: ')
+    link_sexy = input('Link sexy: ')
+    b = input('Malicious: ')
+    Support = input('Support ID: ')
     current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     bug = '¥Yftt15k-x(pornography).xxx-YFtt8k-php%sexy/xxx.com(xnxx.com).banned'
     plain = '''...x/xx(10-x)-&Yfttk:80-Rubika/-Xn/xx'''
